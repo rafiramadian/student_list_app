@@ -18,3 +18,13 @@ Packages used:
 * google_fonts: ^3.0.1
 * graphql_flutter: ^5.1.0
 * nanoid: ^1.0.0
+
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-29.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-28.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-30.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-31.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-33.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-34.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-35.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-37.jpg?raw=true" alt="drawing" width="150" height="300"/>
+<img src="https://github.com/rafiramadian/student_list_app/blob/main/img/photo_2022-08-22_08-20-39.jpg?raw=true" alt="drawing" width="150" height="300"/>
